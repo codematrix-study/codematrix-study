@@ -27,9 +27,9 @@ graph LR
 
 **Experience Timeline:**
 - 🎯 **Current**: Java Backend Engineer (Spring Ecosystem)
-- 📱 **2023-2024**: Mobile App Developer
-- 🔧 **2022-2023**: Script Development
-- 🌐 **2022**: Full Stack Developer
+- 📱 **2023-2024**: Full Stack Developer
+- 🔧 **2022-2023**: Mobile App Developer
+- 🌐 **2022**: Script Development
 
 ---
 
