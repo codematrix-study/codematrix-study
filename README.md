@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate software engineer with 2.5 years of professional experience, driven by an insatiable curiosity for coding. Every spare moment is an opportunity to dive deeper into the world of programming. My journey has taken me through diverse roles - from full-stack development to scripting, mobile app development, and now specializing in Java backend engineering.
+I'm a passionate software engineer with 4 years of professional experience, driven by an insatiable curiosity for coding. Every spare moment is an opportunity to dive deeper into the world of programming. My journey has taken me through diverse roles - from full-stack development to scripting, mobile app development, and now specializing in Java backend engineering.
 
 > 💡 **Philosophy:** Code is poetry, and every bug is a chance to write a better verse.
 
